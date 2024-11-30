@@ -35,13 +35,12 @@ Click the "Listen" button to hear the text read aloud.
 File Structure
 
 converter
-│
-├── index.html      # Main HTML file
-├── style.css       # CSS for styling
-├── script.js       # JavaScript for TTS functionality
-├── images/         # Folder for images
-│   └── btn.png     # Button icon
-└── README.md       # Project documentation
+index.html      # Main HTML file
+style.css       # CSS for styling
+script.js       # JavaScript for TTS functionality
+images/         # Folder for images
+   btn.png     # Button icon
+README.md       # Project documentation
 
 Browser Compatibility
 The application relies on the SpeechSynthesis API, which is supported in most modern browsers. Compatibility may vary, so testing is recommended.
