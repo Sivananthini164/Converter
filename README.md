@@ -27,12 +27,12 @@ cd converter
 Open the index.html file in a browser:
 open index.html
 
-How to Use
+**How to Use**
 Enter your text in the textarea.
 Select a voice from the dropdown menu.
 Click the "Listen" button to hear the text read aloud.
 
-File Structure
+**File Structure**
 
 converter
 index.html      # Main HTML file
@@ -42,17 +42,17 @@ images/         # Folder for images
    btn.png     # Button icon
 README.md       # Project documentation
 
-Browser Compatibility
+**Browser Compatibility:** 
 The application relies on the SpeechSynthesis API, which is supported in most modern browsers. Compatibility may vary, so testing is recommended.
 
-Known Issues
+****Known Issues: ****
 Some voices may not be available on all systems due to browser or OS limitations.
 The voice list may take a moment to load after opening the page.
 
-License
+**License**:
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
 
-Author
+**Author**
 Sivananthini
 
 https://github.com/Sivananthini164
