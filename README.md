@@ -45,7 +45,7 @@ README.md       # Project documentation
 **Browser Compatibility:** 
 The application relies on the SpeechSynthesis API, which is supported in most modern browsers. Compatibility may vary, so testing is recommended.
 
-****Known Issues: ****
+Known Issues: 
 Some voices may not be available on all systems due to browser or OS limitations.
 The voice list may take a moment to load after opening the page.
 
